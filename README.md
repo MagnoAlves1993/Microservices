@@ -4,6 +4,8 @@ Repositório para teste com api gateway em node para microserviços
 # Motivos
 O maior motivo de realizar esse projeto é para estudar como microserviços funcionam com api-gateway e como ẽ possĩvel utilizar duas linguagens diferentes no backend.
 
+Basicamente foi seguido o tutorial desse artigo https://medium.com/caquicoders/criando-um-simples-api-gateway-com-nodejs-e-express-2ec5369e975d, porém com algumas modificações, como por exemplo, utilizar uma segunda linguagem de programação em um dos microserviços
+
 # Requisitos
 Javascript: Node, Express, express-http-proxy, nodemon
 Python 3, Flask, virtualenv
