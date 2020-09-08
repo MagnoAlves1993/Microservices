@@ -1,14 +1,14 @@
 # Microservices
 Repositório para teste com api gateway em node para microserviços
 
-#Motivos
+# Motivos
 O maior motivo de realizar esse projeto é para estudar como microserviços funcionam com api-gateway e como ẽ possĩvel utilizar duas linguagens diferentes no backend.
 
-#Requisitos
+# Requisitos
 Javascript: Node, Express, express-http-proxy, nodemon
 Python 3, Flask, virtualenv
 
-#Instalação e Inicialização
+# Instalação e Inicialização
 Acesse as pastas productsApi e usersApi, instale de acordo com a linguagem do projeto e inicie cada uma delas.
 productsApi está em `python` e usersApi está em `javascript`
 
